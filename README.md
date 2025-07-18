@@ -6,8 +6,9 @@
 ## About Me
 
 - 🎓 **Education:**
-  - **Technologist in Computer Systems** (in progress) - Universidade Federal Fluminense - UFF (Expected: Dec/2026)
-  - **Electronics Technician** - FAETEC - Ferreira Viana (2010-2014)
+  - **Technologist in Computer Systems** (in progress) - Universidade Federal Fluminense - UFF (Expected: Jul/2027)
+  - **Electronics and Computer Engineering** (Interrupted/Abandoned) - Universidade Federal do Rio de Janeiro - UFRJ (Mar/2020)
+  - **Electronics Technician** - FAETEC - Ferreira Viana (Completed: Dec/2014)
   - **Full Stack Java/React Development** - Generation Brazil (Completed: Fev/2025)
 
 - 💼 **Experience:** Full Stack Developer with a focus on technologies like Java, Spring Boot, JavaScript, TypeScript, React, Tailwind, Swagger, Docker, MySQL, and agile methodologies. I also have experience with electronics and maintenance.
@@ -72,5 +73,5 @@
 
 ## 🏅 Activities
 
-- **Current Member of the Computer Systems Academic Concil (DASC - acronym in Portuguese), a student organization:** Acting as a student representative.
+- **Former Member of the Computer Systems Academic Concil (DASC - acronym in Portuguese/UFF), a student organization:** Acting as a student representative.
 - **Former Member of the Minerva E-Racing Junior Team (UFRJ):** Focused on the SAE Formula Electric competition (Dec/2017 - Jan/2019).
