@@ -7,9 +7,9 @@
 
 - 🎓 **Education:**
   - **Technologist in Computer Systems** (in progress) - Universidade Federal Fluminense - UFF (Expected: Jul/2027)
+  - **Full Stack Java/React Development** - Generation Brazil (Completed: Fev/2025)
   - **Electronics and Computer Engineering** (Interrupted/Abandoned) - Universidade Federal do Rio de Janeiro - UFRJ (Mar/2020)
   - **Electronics Technician** - FAETEC - Ferreira Viana (Completed: Dec/2014)
-  - **Full Stack Java/React Development** - Generation Brazil (Completed: Fev/2025)
 
 - 💼 **Experience:** Full Stack Developer with a focus on technologies like Java, Spring Boot, JavaScript, TypeScript, React, Tailwind, Swagger, Docker, MySQL, and agile methodologies. I also have experience with electronics and maintenance.
 
