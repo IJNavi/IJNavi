@@ -1,7 +1,7 @@
 # Hello! I'm Ivan Júlio 👋
 
-![Ivan Júlio's GitHub Stats](https://github-readme-stats.vercel.app/api?username=IvanJulio&show_icons=true&theme=radical&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=IvanJulio&layout=compact&theme=radical)
+![Ivan Júlio's GitHub Stats](https://github-readme-stats.vercel.app/api?username=IvanJulio&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=IvanJulio&layout=compact&theme=radical&langs_count=8)
 
 ## About Me
 
